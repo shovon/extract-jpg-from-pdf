@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "stream-mime-type": "^2.0.0"
+  }
+}
